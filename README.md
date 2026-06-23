@@ -1,6 +1,3 @@
-# Ana-Luiza
-
-# Ana Luiza Neres
 
 🎓 Estudante de Engenharia de Software  
 📊 Experiência com contabilidade, dados e automação  
